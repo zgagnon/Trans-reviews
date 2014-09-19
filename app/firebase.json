@@ -1,0 +1,9 @@
+{
+  "firebase": "trans-reviews",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
